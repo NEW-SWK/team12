@@ -1,2 +1,0 @@
-print("yuka")
-print("yahoooooooi")
